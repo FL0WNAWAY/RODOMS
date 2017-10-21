@@ -1,0 +1,6 @@
+Double click the installer exe file and follow the prompt to install the software.
+Please make sure you have internet connection as during installation you will be redirected to MathWorks website to download the required MATLAB library files (MATLAB Compiler Runtime or MCR).
+
+For more information please visit http://rodoms-filmqa.blogspot.com.au/
+Alternatively, contact Emma Meng Cai at pkuflownaway@gmail.com
+
